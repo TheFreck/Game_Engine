@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Game_Engine_Specs/bin/Debug/net8.0
+/Game_Engine_Specs/obj/Debug/net8.0
+/.vs/Game_Engine/FileContentIndex
+/.vs/Game_Engine/v17
+/.vs/Game_Engine/DesignTimeBuild
+/.vs
+/Game_Engine_Specs/obj
